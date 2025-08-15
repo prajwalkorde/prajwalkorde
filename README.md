@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Prajwal Korde</h1>
+<h3 align="center">Cloud | Networking | Embedded Systems Enthusiast</h3>
 
-<!--
-**prajwalkorde/prajwalkorde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tech Toolbox
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔍 Exploring how devices talk over networks  
+- 🧪 Love debugging, scripting, and system setup  
+- 🛠️ Hands-on with EC2, permissions, and web hosting  
+- 📚 Always learning something new (currently: kernel dev)
+
+---
+
+### 📌 Featured Projects
+Here are some cool things I’ve built:
+
+- 🧠 [MaskVision](https://github.com/prajwalkorde/MaskVision): Python-based image analysis  
+- 💳 [Cred_card](https://github.com/prajwalkorde/Cred_card): Fraud detection using ML  
+- 🛒 [E-com](https://github.com/prajwalkorde/E-com): Static e-commerce page  
+- 🎬 [StaticNetflixPage](https://github.com/prajwalkorde/StaticNetflixPage): Netflix UI clone  
+- 📈 [StockPred](https://github.com/prajwalkorde/StockPred): Stock prediction experiments
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalkorde&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalkorde&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: prajwalrk3071@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-korde-67974420b)
+
+---
+
+<p align="center">
+  <em>“Curious by nature, driven by code — always exploring, always evolving.” 🚀</em>
+</p>
+
