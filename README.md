@@ -63,8 +63,8 @@ Here are some cool things I’ve built:
 
 ### 📫 Connect with Me
 - 📧 Email: prajwalrk3071@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-korde-67974420b)
 
+- 🔗 LinkedIn: [prajwalkorde](https://www.linkedin.com/in/prajwal-korde-67974420b)
 ---
 
 <p align="center">
