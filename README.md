@@ -65,6 +65,8 @@ Here are some cool things I’ve built:
 - 📧 Email: prajwalrk3071@gmail.com  
 
 - 🔗 LinkedIn: [prajwalkorde](https://www.linkedin.com/in/prajwal-korde-67974420b)
+
+- 🌐 Website: [www.prajwal.cc](https://www.prajwal.cc)
 ---
 
 <p align="center">
