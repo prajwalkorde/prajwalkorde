@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Prajwal Korde</h1>
+<h1 align="center">Hi there 👋, I'm Prajwal </h1>
 <h3 align="center">Cloud | Networking | Embedded Systems Enthusiast</h3>
 
 ---
