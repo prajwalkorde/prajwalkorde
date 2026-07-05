@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prajwal </h1>
-<h3 align="center">Cloud | Networking | Embedded Systems Enthusiast</h3>
+<h3 align="center">Cloud | Networking | AI/ML Enthusiast</h3>
 
 ---
 
